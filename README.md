@@ -1,4 +1,4 @@
-**
+
 # Bookify
 Bookify is a book review application that allows users to explore various books, read reviews, and share their opinions. This project is built with React.js and styled with Tailwind CSS for a modern and responsive frontend. The backend functionality, including authentication and data storage, is powered by Firebase.
 
